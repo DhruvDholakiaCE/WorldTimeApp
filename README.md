@@ -44,7 +44,7 @@ https://drive.google.com/file/d/1oAOQTsf4vHH1VdulSjLxLW05x_JvqxVg/view?usp=shari
 
 ## Screenshots
 
-![App Screenshot](./world_time_home.jpg)
+![App Screenshot](./world_time_home.jpg= 720x100)
 ![App Screenshot](./world_time_menu.jpg)
 
 
