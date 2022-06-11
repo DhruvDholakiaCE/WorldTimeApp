@@ -44,11 +44,11 @@ https://drive.google.com/file/d/1oAOQTsf4vHH1VdulSjLxLW05x_JvqxVg/view?usp=shari
 
 ## Screenshots
 
-<!-- ## ![App Screenshot](./world_time_home.jpg= 720x100) -->
+<!-- ## ![App Screenshot](./world_time_home.jpg= 720x200) -->
 
-<img src="world_time_home.jpg" alt="drawing" style="width:200px;"/>
-<img src="world_time_menu.jpg" alt="drawing" style="width:200px;"/>
-<!-- ![App Screenshot](./world_time_menu.jpg) -->
+<img src="world_time_home.jpg" alt="drawing" style="width:230px;"/>
+<img src="world_time_menu.jpg" alt="drawing" style="width:230px;"/>
+<!-- ![App Screenshot](./world_time_menu.jpg= 720x200) -->
 
 
 ## Lessons Learned
